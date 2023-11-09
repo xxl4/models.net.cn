@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>models.net.cn</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://models-net-cn.vercel.app/',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://models-net-cn.vercel.app/',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://models-net-cn.vercel.app/',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'models.net.cn',
   },
 }
 
